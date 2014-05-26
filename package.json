@@ -2,18 +2,20 @@
   "name": "voxel-carry",
   "description": "player inventory to carry items",
   "version": "0.1.1",
+  "main": "carry.js",
   "keywords": [
     "voxel",
-    "plugins",
-    "voxel-plugins",
-    "inventory"
+    "plugin",
+    "inventory",
+    "player",
+    "carry"
   ],
   "repository": {
     "type": "git",
     "url": "git@github.com:deathcap/voxel-carry.git"
   },
   "dependencies": {
-    "inventory": "~0.1.1"
+    "inventory": "^0.1.2"
   },
   "license": "MIT"
 }
