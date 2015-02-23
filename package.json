@@ -1,7 +1,7 @@
 {
   "name": "voxel-carry",
   "description": "player inventory to carry items",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "carry.js",
   "keywords": [
     "voxel",
