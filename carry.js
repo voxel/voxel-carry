@@ -8,7 +8,7 @@ module.exports = function(game, opts) {
 function Carry(game, opts) {
   opts = opts || {};
   opts.inventoryWidth = opts.inventoryWidth || 10;
-  opts.inventoryRows = opts.inventoryRows || 5;
+  opts.inventoryRows = opts.inventoryRows || 4;
 
   this.inventory = new Inventory(opts.inventoryWidth, opts.inventoryRows);
 }
